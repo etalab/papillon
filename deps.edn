@@ -1,0 +1,16 @@
+{:version     "0.1.0"
+ :description "Validate csv data produced for PAPILLON."
+ :url         "https://github.com/etalab/papillon"
+ :license     {:name "Eclipse Public License - v 2.0"
+               :url  "http://www.eclipse.org/legal/epl-v20.html"}
+ :deps
+ {org.clojure/clojure {:mvn/version "1.10.1"}
+  semantic-csv        {:mvn/version "0.2.0"}
+  cheshire            {:mvn/version "5.10.0"}
+  clojure.java-time   {:mvn/version "0.3.2"}}
+ :aliases
+ {:make-schema  {:main-opts ["-m core make-schema"]}
+  :check-schema {:main-opts ["-m core check-schema"]}
+  :jar          {:extra-deps {seancorfield/depstar {:mvn/version "RELEASE"}}
+                 :main-opts  ["-m" "hf.depstar.uberjar" "papillon.jar"
+                              "-C" "-m" "core"]}}}

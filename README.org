@@ -1,0 +1,14 @@
+** PAPILLON
+
+** Contribuer
+
+Les contributions sont les bienvenues, sous forme d'/issues/ ou de /pull
+requests/.
+
+** Licence
+
+2020 Délégation ministérielle du numérique en santé et les contributeurs du dépôt.
+
+Le code source de ce dépôt est publié sous licence [[file:LICENSE][EPL-2.0]].
+
+Le contenu du fichier papillon.csv est publié sous [[file:LICENSE.Etalab-2.0.md][licence Ouverte 2.0]].
