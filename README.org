@@ -10,7 +10,7 @@ Le nom est un clin d'oeil aux [[https://chatons.org/][CHATONS]] et un hommage à
 *Vous êtes un organisme public et vous déployez un service s'appuyant
 sur un logiciel libre ?*
 
-Vous pouvez [[https://github.com/etalab/papillon/issues][ajouter votre service à PAPILLON]].
+Vous pouvez [[https://github.com/etalab/papillon/issues/new?assignees=bzg&labels=Soumission&template=ajouter-un-service.md&title=Nouveau+service+%3A+][ajouter votre service à PAPILLON]].
 
 *Vous avez des questions les services que vous pouvez déployer ?*
 
