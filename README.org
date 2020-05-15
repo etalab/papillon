@@ -1,14 +1,30 @@
 ** PAPILLON
 
+=PAPILLON= est le /Portail Administratif des Plateformes Intégrant des
+Logiciels Libres et Ouvertes au plus grand Nombre/.
+
+Le nom est un clin d'oeil aux [[https://chatons.org/][CHATONS]] et un hommage à [[https://fr.wikipedia.org/wiki/Irma_Testa][Irma Testa]].
+
+** Renseigner un service
+
+*Vous êtes un organisme public et vous déployez un service s'appuyant
+sur un logiciel libre ?*
+
+Vous pouvez [[https://github.com/etalab/papillon/issues][ajouter votre service à PAPILLON]].
+
+*Vous avez des questions les services que vous pouvez déployer ?*
+
+Vous pouvez [[https://sill.etalab.gouv.fr/fr/contact][solliciter]] les référents du Socle interministériel de
+logiciels libres.
+
 ** Contribuer
 
-Les contributions sont les bienvenues, sous forme d'/issues/ ou de /pull
-requests/.
+Les contributions au code sont les bienvenues, sous forme d'/issues/ ou de /pull requests/.
 
 ** Licence
 
-2020 Délégation ministérielle du numérique en santé et les contributeurs du dépôt.
+2020 Délégation interministérielle du numérique et les contributeurs du dépôt.
 
 Le code source de ce dépôt est publié sous licence [[file:LICENSE][EPL-2.0]].
 
-Le contenu du fichier papillon.csv est publié sous [[file:LICENSE.Etalab-2.0.md][licence Ouverte 2.0]].
+Le contenu du fichier [[file:papillon.csv][papillon.csv]] est publié sous [[file:LICENSE.Etalab-2.0.md][licence Ouverte 2.0]].
