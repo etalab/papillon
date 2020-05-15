@@ -1,5 +1,6 @@
 agency_name,agency_url,service_name,service_url,description,software_name,software_sill_id,publication_date,last_update_date,signup_scope,usage_scope,signup_validation_method,content_moderation_method
-DINUM,https://www.numerique.gouv.fr/,Webconf,https://webconf.numerique.gouv.fr,Visioconférence,jitsi,67,2019,2020,Agents DINUM,Tout le monde,Manuelle,Manuelle
-DINUM,https://www.numerique.gouv.fr/,Webconf,https://visio.betagouv.live/b,Visioconférence,BigBlueButton,196,2020-04,2020-04,Agents DINUM,Agents DINUM,Manuelle,Manuelle
-DINUM/Etalab,https://www.etalab.gouv.fr/,Listes de discussion,https://listes.etalab.gouv.fr,Listes de discussions,mailman,,2020,2020,Tout agent public,Tout agent public,Manuelle,Manuelle
-DINUM/Etalab,https://www.etalab.gouv.fr/,Forum,https://forum.etalab.gouv.fr,Forum en ligne,discourse,33,2016,2020,Tout le monde,Tout le monde,Manuelle,Manuelle
+DINUM,https://www.numerique.gouv.fr/,Webconf,https://webconf.numerique.gouv.fr,Visioconférence,jitsi,67,2019,2020,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune
+DINUM,https://www.numerique.gouv.fr/,Webconf,https://visio.betagouv.live/b,Visioconférence,BigBlueButton,196,2020-04,2020-04,Agents de la  DINUM,Agents de la DINUM,Manuelle,"Manuelle, par salon"
+DINUM/Etalab,https://www.etalab.gouv.fr/,Listes de discussion,https://listes.etalab.gouv.fr,Listes de discussions,mailman,,2019,2020,Tout agent public,Tout agent public,Manuelle,Manuelle
+DINUM/Etalab,https://www.etalab.gouv.fr/,Forum,https://forum.etalab.gouv.fr,Forum en ligne,discourse,33,2016,2020,Tout le monde,Tout le monde,Vérification manuelle,Manuelle
+DINUM/Etalab,https://www.etalab.gouv.fr/,Mastodon,https://mastodon.etalab.gouv.fr,Instance de microblogging,mastodon,85,2017,2020,Agents publics,Tout le monde,Vérification automatique de l'adresse email,Manuelle
