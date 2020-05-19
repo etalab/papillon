@@ -12,7 +12,7 @@ sur un logiciel libre ?*
 
 Vous pouvez [[https://github.com/etalab/papillon/issues/new?assignees=bzg&labels=Soumission&template=ajouter-un-service.md&title=Nouveau+service+%3A+][ajouter votre service à PAPILLON]].
 
-*Vous avez des questions les services que vous pouvez déployer ?*
+*Vous avez des questions sur les services que vous pouvez déployer ?*
 
 Vous pouvez [[https://sill.etalab.gouv.fr/fr/contact][solliciter]] les référents du Socle interministériel de
 logiciels libres.
