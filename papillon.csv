@@ -13,9 +13,9 @@ MIM,https://www.mim-libre.fr/,Forum,https://forum.mim-libre.fr/,Forum en ligne,D
 MIM,https://www.mim-libre.fr/,Chat,https://chat.mim-libre.fr/,tchat,Rocketchat,124,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions
 MIM,https://www.mim-libre.fr/,Filepizza,https://filepizza.mim-libre.fr/,transfert de fichiers en P2P,Filepizza,,,,Tout le monde,Tout le monde,aucune,Aucune
 MIM,https://www.mim-libre.fr/,Board,https://board.mim-libre.fr/commun,Post-it,scrumblr,,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions
-MIM,https://www.mim-libre.fr/,Draw,https://draw.mim-libre.fr/?lang=fr,schema technique et mookup,Draw.io,,,,Agents publics,Agents publics,Vérification de l'adresse email,Aucune pour les institutions
+MIM,https://www.mim-libre.fr/,Draw,https://draw.mim-libre.fr/?lang=fr,schema technique et mookup,Draw.io,35,,,Agents publics,Agents publics,Vérification de l'adresse email,Aucune pour les institutions
 MIM,https://www.mim-libre.fr/,Pad,https://pad.mim-libre.fr/,Traitement de texte collaboratif,Etherpad,,,,Tout le monde,Tout le monde,aucune,Aucune
-MIM,https://www.mim-libre.fr/,Cloud,https://cloud.mim-libre.fr/,"Cloud de fichiers avec édition collaborative (textes, présentation et tableurs)",Nextcloud,,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions
+MIM,https://www.mim-libre.fr/,Cloud,https://cloud.mim-libre.fr/,"Cloud de fichiers avec édition collaborative (textes, présentation et tableurs)",Nextcloud,93,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions
 MENJ/Rennes,http://www.ac-rennes.fr/,Pad,https://www.toutatice.fr/pad/,Traitement de texte collaboratif,Etherpad,,,,Tout le monde,Tout le monde,Tout le monde,Tout le monde
 MENJ/Paris,http://www.ac-paris.fr,Pad,https://etherpad.ac-paris.fr/,Traitement de texte collaboratif,Etherpad,,,,Tout le monde,Tout le monde,Tout le monde,Tout le monde
 MENJ/RENATER,https://www.renater.fr/,messagerie,https://webmail.partage.renater.fr/,messagerie collaborative,Zimbra,202,,,"MEN, MENSRI",Tout le monde,Convention avec renater,Aucune une fois conventionné
@@ -27,5 +27,5 @@ MENJ/RENATER,https://www.renater.fr/,EduSpot,https://services.renater.fr/documen
 MENJ/RENATER,https://www.renater.fr/,EduVPN,https://services.renater.fr/eduvpn/index,Service de VPN pour les personnels https://services.renater.fr/eduvpn/index,openvpn,,,,"MEN, MENSRI",Agents des agences qui ont souscrits,Convention avec renater,Aucune une fois conventionné
 MENJ,https://www.education.gouv.fr/,Tribu,https://tribu.phm.education.gouv.fr/,"Création d’espace de travail collaboratif avec forum, agenda, edition de documents (texte, tableur, presentation) pdf",Nuxeo + osivia,,,,"MEN, MENSRI, AGRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ-Agri,Aucune
 MENJ,https://www.education.gouv.fr/,Classes virtuelles,https://cvirtuelle.phm.education.gouv.fr/login.aspx,Classes virtuelles https://foad.phm.education.gouv.fr/maclassevirtuelle,VIA,,,,MENJ,Tout le monde,SSO Fédération MENJ,Aucune
-MENJ,https://www.education.gouv.fr/,Magistére,https://magistere.education.fr/,Formation en ligne https://foad.phm.education.gouv.fr/maclassevirtuelle,Moodle,,,,"MEN, MENSRI, AGRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ-Agri,Aucune
+MENJ,https://www.education.gouv.fr/,Magistére,https://magistere.education.fr/,Formation en ligne https://foad.phm.education.gouv.fr/maclassevirtuelle,Moodle,208,,,"MEN, MENSRI, AGRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ-Agri,Aucune
 PIX,https://pix.fr/,Pix,https://pix.fr/,Validation de compétence,Pix,,,,Tout le monde,Tout le monde,Tout le monde,Tout le monde
