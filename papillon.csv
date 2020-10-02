@@ -5,6 +5,7 @@ DINUM,https://www.numerique.gouv.fr/,Partage de notes,https://pad.incubateur.net
 DINUM/Etalab,https://www.etalab.gouv.fr/,Listes de discussion,https://listes.etalab.gouv.fr,Listes de discussions,mailman,,2019,2020,Tout agent public,Tout agent public,Manuelle,Manuelle,web,web,80
 DINUM/Etalab,https://www.etalab.gouv.fr/,Forum Etalab,https://forum.etalab.gouv.fr,Forum en ligne,discourse,33,2016,2020,Tout le monde,Tout le monde,Vérification manuelle,Manuelle,web,web,80
 DINUM/Etalab,https://www.etalab.gouv.fr/,Mastodon,https://mastodon.etalab.gouv.fr,Instance de microblogging,mastodon,85,2017,2020,Agents publics,Tout le monde,Vérification automatique de l'adresse email,Manuelle,web,web,80
+DINUM/Etalab,https://www.data.gouv.fr/,data.gouv.fr,https://www.data.gouv.fr,Portail de la donnée publique ouverte,udata,,,2020,Tous,Tout le monde,,Manuelle,web,web,80
 MENJ/RENATER,https://www.renater.fr/,Evento,https://evento.renater.fr/,Gestion de rendez-vous et sondages https://www.renater.fr/fr/Evento,moment,,,,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
 MENJ/RENATER,https://www.renater.fr/,Rendez-vous,https://rendez-vous.renater.fr/home/,Visioconférence https://www.renater.fr/fr/RENDEZ-VOUS,jitsi,67,2019,2020,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
 MENJ/RENATER,https://www.renater.fr/,Filesender,https://filesender.renater.fr/,Transfert de fichiers https://www.renater.fr/fr/filesender,Filesender,,,,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
