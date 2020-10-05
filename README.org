@@ -21,24 +21,26 @@ logiciels libres.
 
 - agency_name :: Nom de l'organisme public mettant en oeuvre la solution
 - agency_url :: URL de l'organisme public mettant en oeuvre la solution
-- service_name :: Nom du service déployé
-- service_url :: Nom du service déployé
-- description :: Description du service déployé
-- software_name :: Nom du logiciel sur lequel s'appuie le service
-- software_sill_id :: Identifiant SILL du logiciel sur lequel s'appuie le service
-- publication_date :: Date de mise en production du service
-- last_update_date :: Date de mise à jour du service
-- signup_scope :: Qui peut s'inscrire au service comme utilisateur ?
-- usage_scope :: Qui peut utiliser le service ?
-- signup_validation_method :: Quelles sont les méthodes de validation
-  des utilisateurs ?
-- content_moderation_method :: Quelles sont les méthodes de modération
-  du service ?
-- user_network_access :: Depuis quel réseau les utilisateurs
-  enregistrés peuvent utiliser le service ?
 - anon_network_access :: Depuis quel réseau les utilisateurs anonymes
   peuvent utiliser le service ?
+- content_moderation_method :: Quelles sont les méthodes de modération
+  du service ?
+- description :: Description du service déployé
+- last_update_date :: Date de mise à jour du service
 - ports :: Quels ports doivent être ouverts pour utiliser le service ?
+- publication_date :: Date de mise en production du service
+- public_sector :: Indication de la fonction publique concernée
+- service_name :: Nom du service déployé
+- service_url :: Nom du service déployé
+- signup_scope :: Qui peut s'inscrire au service comme utilisateur ?
+- signup_validation_method :: Quelles sont les méthodes de validation
+  des utilisateurs ?
+- software_comptoir_id :: Identifiant du logiciel sur le [[https://comptoir-du-libre.org][comptoir-du-libre.org]]
+- software_name :: Nom du logiciel sur lequel s'appuie le service
+- software_sill_id :: Identifiant SILL du logiciel sur lequel s'appuie le service
+- usage_scope :: Qui peut utiliser le service ?
+- user_network_access :: Depuis quel réseau les utilisateurs
+  enregistrés peuvent utiliser le service ?
 
 ** Contribuer
 
