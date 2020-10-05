@@ -25,6 +25,7 @@ logiciels libres.
   peuvent utiliser le service ?
 - content_moderation_method :: Quelles sont les méthodes de modération
   du service ?
+- id :: Identifiant unique
 - description :: Description du service déployé
 - last_update_date :: Date de mise à jour du service
 - ports :: Quels ports doivent être ouverts pour utiliser le service ?
