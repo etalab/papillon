@@ -39,7 +39,7 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 38,ADULLACT,Local governments,https://adullact.org,Directmairie,https://directmairie.adullact.org/,« Ma ville en poche »,DIRECTMAIRIE,,,2019,2019,Agents territoriaux,Tout le monde,Adhérent adullact (direct / indirect),Adullact,web,web,
 39,ADULLACT,Local governments,https://adullact.org,Stockage SEDA,https://directmairie.adullact.org/,Archivage électronique des flux métiers ACTES et HELIOS,ASALAE,,,2020,2020,Agents territoriaux,archivistes,Adhérent adullact (direct / indirect),Adullact,web,web,
 40,ADULLACT,Local governments,https://adullact.org,Forge Gitlab,https://gitlab.adullact.org,Forge logicielle,Gitlab,53,,2016,2020,Tout le monde,Tout le monde,Tout le monde,Adullact,web,web,443
-41,ADULLACT,Local governments,https://adullact.org,Démarches Simplifiées,https://demarches-simplifiees.adullact.org,Formulaires en ligne pour collectivités,Démarches Simplifiées,,,2020,2020,Agents territoriaux,Tout le monde,Adhérent adullact (direct / indirect),Adullact,web,web,443
+41,ADULLACT,Local governments,https://adullact.org,Démarches Simplifiées,https://demarches-simplifiees.adullact.org,Formulaires en ligne pour collectivités,Démarches Simplifiées,205,136,2020,2020,Agents territoriaux,Tout le monde,Adhérent adullact (direct / indirect),Adullact,web,web,443
 42,CD06,Local governments,https://www.departement06.fr/,Portail Notaire,,,Départements & Notaires,,,2019,2019,Notaires du Département,Notaires du Département,Conseil Départemental,Conseil Départemental,web,,443
 43,CD28,Local governments,https://www.eurelien.fr/,Portail Notaire,,,Départements & Notaires,,,2018,2018,Notaires du Département,Notaires du Département,Conseil Départemental,Conseil Départemental,web,,443
 44,CD38,Local governments,https://www.isere.fr/,Portail Notaire,,,Départements & Notaires,,,2017,2019,Notaires du Département,Notaires du Département,Conseil Départemental,Conseil Départemental,web,,443
@@ -60,3 +60,4 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 59,AGEDI,Local governments,http://public.agedi.fr/,S2low > helios,,Télétransmission des pièces comptables en mairie,S2LOW/HELIOS,,,,,,,,,,,
 60,Mégalis Bretagne,Local governments,https://www.megalis.bretagne.bzh,S2low > helios,,Télétransmission des pièces comptables en mairie,S2LOW/HELIOS,,,,,,,,,,,
 61,SILPC,Health,https://www.silpc.fr/,S2low > helios,,Télétransmission des pièces comptables en mairie,S2LOW/HELIOS,,,,,,,,,,,
+62,DINUM,State,https://www.numerique.gouv.fr/,Démarches Simplifiées,https://www.demarches-simplifiees.fr/procedures,Formulaires en ligne pour administrations centrales,Démarches Simplifiées,205,136,,2020,Agents publics,Tout le monde,,DINUM,web,web,443
