@@ -10,7 +10,7 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 9,MENJ/RENATER,State,https://www.renater.fr/,Rendez-vous,https://rendez-vous.renater.fr/home/,Visioconférence https://www.renater.fr/fr/RENDEZ-VOUS,jitsi,67,65,2019,2020,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
 10,MENJ/RENATER,State,https://www.renater.fr/,Filesender,https://filesender.renater.fr,Transfert de fichiers https://www.renater.fr/fr/filesender,Filesender,,,,,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
 11,MENJ/RENATER,State,https://www.renater.fr/,Renavisio,https://renavisio.renater.fr,Pont audio-vidéo,Renavisio,,,,,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
-12,MIM,State,https://www.mim-libre.fr/,Gitlab,https://gitlab.mim-libre.fr,Dépôt de code avancé,Gitlab,53,198,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
+12,MIM,State,https://www.mim-libre.fr,GitLab,https://gitlab.mim-libre.fr,Forge logicielle,GitLab,53,198,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,web,web,443
 13,MIM,State,https://www.mim-libre.fr/,Forum,https://forum.mim-libre.fr,Forum en ligne,Discourse,33,282,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
 14,MIM,State,https://www.mim-libre.fr/,Chat,https://chat.mim-libre.fr,Tchat,Rocketchat,124,200,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
 15,MIM,State,https://www.mim-libre.fr/,Filepizza,https://filepizza.mim-libre.fr,Transfert de fichiers en P2P,Filepizza,,,,,Tout le monde,Tout le monde,aucune,Aucune,,,
@@ -38,7 +38,7 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 37,ADULLACT,Local governments,https://adullact.org,Webmarché,https://webmarche.adullact.org,Plateforme de marchés publics,WEBMARCHE,,130,2008,2020,Agents territoriaux,Entreprises,Adhérent adullact (direct / indirect),Adullact,web,web,
 38,ADULLACT,Local governments,https://adullact.org,Directmairie,https://directmairie.adullact.org,« Ma ville en poche »,DIRECTMAIRIE,,382,2019,2019,Agents territoriaux,Tout le monde,Adhérent adullact (direct / indirect),Adullact,web,web,
 39,ADULLACT,Local governments,https://adullact.org,Stockage SEDA,,Archivage électronique des flux métiers ACTES et HELIOS,ASALAE,,3,2020,2020,Agents territoriaux,archivistes,Adhérent adullact (direct / indirect),Adullact,web,web,
-40,ADULLACT,Local governments,https://adullact.org,Forge Gitlab,https://gitlab.adullact.org,Forge logicielle,Gitlab,53,198,2016,2020,Tout le monde,Tout le monde,Tout le monde,Adullact,web,web,443
+40,ADULLACT,Local governments,https://adullact.org,Forge Gitlab,https://gitlab.adullact.org,Forge logicielle,GitLab,53,198,2016,2020,Tout le monde,Tout le monde,Tout le monde,Adullact,web,web,443
 41,ADULLACT,Local governments,https://adullact.org,Démarches Simplifiées,https://demarches.adullact.org,Formulaires en ligne pour collectivités,Démarches Simplifiées,205,136,2020,2020,Agents territoriaux,Tout le monde,Adhérent adullact (direct / indirect),Adullact,web,web,443
 42,CD06,Local governments,https://www.departement06.fr/,Portail Notaire,,,Départements & Notaires,,115,2019,2019,Notaires du Département,Notaires du Département,Conseil Départemental,Conseil Départemental,web,,443
 43,CD28,Local governments,https://www.eurelien.fr/,Portail Notaire,,,Départements & Notaires,,115,2018,2018,Notaires du Département,Notaires du Département,Conseil Départemental,Conseil Départemental,web,,443
@@ -61,3 +61,17 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 60,Mégalis Bretagne,Local governments,https://www.megalis.bretagne.bzh,S2low > helios,,Télétransmission des pièces comptables en mairie,S2LOW/HELIOS,,5,,,,,,,,,
 61,SILPC,Health,https://www.silpc.fr/,S2low > helios,,Télétransmission des pièces comptables en mairie,S2LOW/HELIOS,,5,,,,,,,,,
 62,DINUM,State,https://www.numerique.gouv.fr/,Démarches Simplifiées,https://www.demarches-simplifiees.fr/procedures,Formulaires en ligne pour administrations centrales,Démarches Simplifiées,205,136,,2020,Agents publics,Tout le monde,,DINUM,web,web,443
+63,INRIA,State,https://www.inria.fr,GitLab,https://gitlab.inria.fr,Forge logicielle,GitLab,53,198,,2021,Chercheurs invités,Tout le monde,Invitation,,web,web,443
+64,Clermont Université,State,https://www.clermont-universite.fr,GitLab,https://forge.clermont-universite.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+65,Université de Bordeaux,State,https://www.u-bordeaux.fr,GitLab,https://gitub.u-bordeaux.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+66,INRA,State,https://www.inra.fr,GitLab,https://forgemia.inra.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+67,CINES,State,https://www.cines.fr,GitLab,https://git.cines.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+68,Université de Caen,State,https://www.unicaen.fr,GitLab,https://git.unicaen.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+69,Unistra,State,https://www.unistra.fr,GitLab,https://git.unistra.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+70,CCSD,State,https://ccsd.cnrs.fr,GitLab,https://gitlab.ccsd.cnrs.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+71,CEREMA,State,https://www.cerema.fr,GitLab,https://gitlab.cerema.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+72,Huma Num,State,https://www.huma-num.fr,GitLab,https://gitlab.huma-num.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+73,IN2P3,State,https://in2p3.fr,GitLab,https://gitlab.in2p3.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+74,IRSTEA,State,https://www.irstea.fr,GitLab,https://gitlab.irstea.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+75,Unistra,State,https://www.unistra.fr,GitLab,https://gitlab.math.unistra.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+76,Université de Paris Sud,State,https://www.u-psud.fr,GitLab,https://gitlab.u-psud.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
