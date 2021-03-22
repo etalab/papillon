@@ -76,4 +76,4 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 75,Unistra,State,https://www.unistra.fr,GitLab,https://gitlab.math.unistra.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 76,Université de Paris Sud,State,https://www.u-psud.fr,GitLab,https://gitlab.u-psud.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 77,Université Grenoble Alpes,State,https://www.univ-grenoble-alpes.fr,GitLab,https://gricad-gitlab.univ-grenoble-alpes.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
-78,Esup Portail,State,https://www.esup-portail.org,rocket,https://rocket.esup-portail.org,Discussion en ligne,Rocketchat,124,200,,2021,Acteurs de l'ESR,Acteurs de l'ESR,,,web,web,443
+78,Esup Portail,Lyon 3 University,https://www.esup-portail.org,Rocket,https://rocket.esup-portail.org,Discussion en ligne,Rocketchat,124,200,,2021,Acteurs de l'ESR,Acteurs de l'ESR,,,web,web,443
