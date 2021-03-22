@@ -12,7 +12,7 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 11,MENJ/RENATER,State,https://www.renater.fr/,Renavisio,https://renavisio.renater.fr,Pont audio-vidéo,Renavisio,,,,,"MEN, MENSRI",Tout le monde,SSO Fédération SUP-Recherche-MENJ,Aucune,,,
 12,MIM,State,https://www.mim-libre.fr,GitLab,https://gitlab.mim-libre.fr,Forge logicielle,GitLab,53,198,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,web,web,443
 13,MIM,State,https://www.mim-libre.fr/,Forum,https://forum.mim-libre.fr,Forum en ligne,Discourse,33,282,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
-14,MIM,State,https://www.mim-libre.fr/,Chat,https://chat.mim-libre.fr,Tchat,Rocketchat,124,200,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
+14,MIM,State,https://www.mim-libre.fr/,Chat,https://chat.mim-libre.fr,Discussion en ligne,Rocketchat,124,200,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
 15,MIM,State,https://www.mim-libre.fr/,Filepizza,https://filepizza.mim-libre.fr,Transfert de fichiers en P2P,Filepizza,,,,,Tout le monde,Tout le monde,aucune,Aucune,,,
 16,MIM,State,https://www.mim-libre.fr/,Board,https://board.mim-libre.fr/commun,Post-it,scrumblr,,,,,Agents publics,Tout le monde,Vérification de l'adresse email,Aucune pour les institutions,,,
 17,MIM,State,https://www.mim-libre.fr/,Draw,https://draw.mim-libre.fr/?lang=fr,Schéma technique et mookup,Draw.io,35,300,,,Agents publics,Agents publics,Vérification de l'adresse email,Aucune pour les institutions,,,
@@ -76,3 +76,4 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 75,Unistra,State,https://www.unistra.fr,GitLab,https://gitlab.math.unistra.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 76,Université de Paris Sud,State,https://www.u-psud.fr,GitLab,https://gitlab.u-psud.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 77,Université Grenoble Alpes,State,https://www.univ-grenoble-alpes.fr,GitLab,https://gricad-gitlab.univ-grenoble-alpes.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
+78,Esup Portail,State,https://www.esup-portail.org,rocket,https://rocket.esup-portail.org,Discussion en ligne,Rocketchat,124,200,,2021,Acteurs de l'ESR,Acteurs de l'ESR,,,web,web,443
