@@ -77,3 +77,23 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 76,Université de Paris Sud,State,https://www.u-psud.fr,GitLab,https://gitlab.u-psud.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 77,Université Grenoble Alpes,State,https://www.univ-grenoble-alpes.fr,GitLab,https://gricad-gitlab.univ-grenoble-alpes.fr,Forge logicielle,GitLab,53,198,,2021,,,,,web,web,443
 78,Esup Portail,Lyon 3 University,https://www.esup-portail.org,Rocket,https://rocket.esup-portail.org,Discussion en ligne,Rocketchat,124,200,,2021,Acteurs de l'ESR,Acteurs de l'ESR,,,web,web,443
+79,Académie de Besançon,State,https://www.ac-besancon.fr,Peertube,https://tube-besancon.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+80,Académie de Strasbourg,State,https://www.ac-strasbourg.fr,Peertube,https://tube-strasbourg.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+81,Académie de Toulouse,State,https://www.ac-toulouse.fr,Peertube,https://tube-toulouse.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+82,Académie de Dijon,State,https://www.ac-dijon.fr,Peertube,https://tube-dijon.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+83,Académie d'Amiens,State,https://www.ac-amiens.fr,Peertube,https://tube-amiens.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+84,Académie d'Orléans-Tours,State,https://www.ac-orleans-tours.fr,Peertube,https://tube-orleans-tours.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+85,Académie de Versailles,State,https://www.ac-versailles.fr,Peertube,https://tube-versailles.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+86,Académie de Nantes,State,https://www.ac-nantes.fr,Peertube,https://tube-nantes.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+87,Académie de Paris,State,https://www.ac-paris.fr,Peertube,https://tube-paris.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+88,Académie de Poitiers,State,https://www.ac-poitiers.fr,Peertube,https://tube-poitiers.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+89,Académie de Nancy,State,https://www.ac-nancy.fr,Peertube,https://tube-nancy.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+90,Académie de Limoges,State,https://www.ac-limoges.fr,Peertube,https://tube-limoges.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+91,Académie de Montpellier,State,https://www.ac-montpellier.fr,Peertube,https://tube-montpellier.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+92,Académie de Corse,State,https://www.ac-corse.fr,Peertube,https://tube-corse.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+93,Académie de Grenoble,State,https://www.ac-grenoble.fr,Peertube,https://tube-grenoble.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+94,Académie d'outre-mer,State,https://eduscol.education.fr/1034/territoires-d-outre-mer,Peertube,https://tube-outremer.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+95,Académie de Creteil,State,https://www.ac-creteil.fr,Peertube,https://tube-creteil.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+96,Académie de Nice,State,https://www.ac-nice.fr,Peertube,https://tube-nice.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+97,Académie de Clermont-Ferrand,State,https://www.ac-clermont-ferrand.fr,Peertube,https://tube-clermont-ferrand.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
+98,Académie de Bordeaux,State,https://www.ac-bordeaux.fr,Peertube,https://tube-bordeaux.beta.education.fr,Diffusion vidéo,Peertube,197,140,,2021,,Tout le monde,,,web,web,443
