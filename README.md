@@ -49,7 +49,10 @@ logiciels libres.
 
 # Contribuer
 
-Les contributions au code sont les bienvenues, sous forme d'*issues* ou de *pull requests*.
+Ce dépôt ne permet pas d'ouvrir des issues ou des *pull requests*.
+
+Les contributions au code sont les bienvenues sous forme de questions
+ou de patches à envoyer à `~etalab@lists.sr.ht`.
 
 
 # Licence
