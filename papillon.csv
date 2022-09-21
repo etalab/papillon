@@ -97,3 +97,4 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 99,MENJ,State,https://www.education.fr,visio-agents,https://visio-agents.education.fr,Visioconférence,BigBlueButton,196,384,,2021,,Agents du MENJ,,,web,web,443
 100,Académie de Versailles,State,https://www.ac-versailles.fr,GitLab,https://edu-git.ac-versailles.fr,Forge logicielle,GitLab,53,198,,2021,Agents du MENJS,Tout le monde,Vérification de l'adresse email,,web,web,443
 101,RESINFO/Mathrice/CNRS,State,https://www.resinfo.org,Listes de discussions,https://listes.resinfo.org/wws,Listes de discussions https://listes.resinfo.org/wws/lists,Sympa,142,281,,2021,"MENJS, MENSRI",Tout le monde,SSO PLM Matrice,Manuelle,web,web,443
+102,RESINFO/Mathrice/CNRS,State,,Kanboard,https://plmkan.math.cnrs.fr,Organisation de projet,Kanboard,331,,,2022,"MESRI, Mathrice?",,,,web,web,443
