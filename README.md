@@ -57,7 +57,7 @@ ou de patches à envoyer à `~etalab@lists.sr.ht`.
 
 # Licence
 
-2020 Délégation interministérielle du numérique et les contributeurs du dépôt.
+2020-2023 Délégation interministérielle du numérique et les contributeurs du dépôt.
 
 Le code source de ce dépôt est publié sous licence [EPL-2.0](LICENSE).
 
