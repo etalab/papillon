@@ -10,7 +10,7 @@
   {:title       "Spécifications pour les données du portail PAPILLON"
    :description "Spécifications pour les données du portail PAPILLON"
    :author      "Etalab"
-   :contact     "contact@data.gouv.fr"
+   :contact     "contact@code.gouv.fr"
    :contributor "Etalab"
    :version     "2020-05-15"
    :created     "2020-05-15"
