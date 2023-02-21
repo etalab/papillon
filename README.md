@@ -52,7 +52,7 @@ logiciels libres.
 Ce dépôt ne permet pas d'ouvrir des issues ou des *pull requests*.
 
 Les contributions au code sont les bienvenues sous forme de questions
-ou de patches à envoyer à `~etalab@lists.sr.ht`.
+ou de patches à envoyer à `~codegouvfr/codegouvfr-devel@lists.sr.ht`.
 
 
 # Licence
