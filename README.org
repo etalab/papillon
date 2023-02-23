@@ -14,7 +14,7 @@ Vous pouvez [[https://github.com/etalab/papillon/issues/new?assignees=bzg&labels
 
 *Vous avez des questions sur les services que vous pouvez déployer ?*
 
-Vous pouvez [[https://sill.etalab.gouv.fr/fr/contact][solliciter]] les référents du Socle interministériel de
+Vous pouvez [[https://sill.code.gouv.fr/fr/contact][solliciter]] les référents du Socle interministériel de
 logiciels libres.
 
 ** Schéma de donnée

@@ -16,7 +16,7 @@ Vous pouvez [ajouter votre service à PAPILLON](https://github.com/etalab/papill
 
 **Vous avez des questions sur les services que vous pouvez déployer ?**
 
-Vous pouvez [solliciter](https://sill.etalab.gouv.fr/fr/contact) les référents du Socle interministériel de
+Vous pouvez [solliciter](https://sill.code.gouv.fr/fr/contact) les référents du Socle interministériel de
 logiciels libres.
 
 
